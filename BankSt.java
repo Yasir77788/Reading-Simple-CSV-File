@@ -37,7 +37,7 @@ public class BankSt
             total += amount;
         }
         
-        // print the total of the transaction
+        // print the total of the transactions
         System.out.printf("The total for all transc is $%.2f", total);
         System.out.println();
         
